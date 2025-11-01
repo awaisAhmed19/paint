@@ -1,0 +1,12 @@
+
+export default function RectOptions() {
+  return (<>
+
+<div className="rectTool">
+    <button id="rectborder" value="1"></button>
+    <button id="filledrectborder" value="2"></button>
+    <button id="filledrect" value="3"></button>
+</div>
+  </>);
+  
+}

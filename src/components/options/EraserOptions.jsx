@@ -1,0 +1,12 @@
+ export default function EraserOptions(){
+
+ return (<>
+ <div className="EraserOptions">
+    <button id="Eraser1px" value="3"></button> 
+    <button id="Eraser2px" value="6"></button>
+    <button id="Eraser3px" value="9"></button>
+    <button id="Eraser4px" value="12"></button> 
+</div>                                  
+</>
+   );
+ }

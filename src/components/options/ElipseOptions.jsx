@@ -1,0 +1,12 @@
+
+export default function ElipseOptions(){
+  return (<>
+    
+<div className="ellipsetool">
+  <button id="ellipseborder" value="1"></button>
+  <button id="filledellipseborder" value="2"></button>
+  <button id="filledellipse" value="3"></button>
+</div>
+
+  </>);
+}
